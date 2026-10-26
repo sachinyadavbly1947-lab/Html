@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Hi, I'm Sachin Singh – Personal Introduction">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hi, I'm Sachin Singh – Personal Introduction</title>
+</head>
+<body>
+
+  <header>
+    <h1>Hi, I'm Sachin Singh 👋</h1>
+    <p><em>BCA AI Student · Web Development Learner</em></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am a BCA Artificial Intelligence student at
+        Invertis University, Bareilly, India.
+        I am interested in web development and technology.
+        I am currently learning HTML, CSS, and programming.
+      </p>
+    </section>
+
+    <section>
+      <h2>Quick Facts</h2>
+      <ul>
+        <li><strong>Name:</strong> Sachin Singh</li>
+        <li><strong>Course:</strong> BCA Artificial Intelligence (AI)</li>
+        <li><strong>University:</strong> Invertis University, Bareilly</li>
+        <li><strong>Country:</strong> India</li>
+        <li><strong>Interests:</strong> Web Development, Video Editing, Content Creation</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>My Goals</h2>
+      <ol>
+        <li>Learn HTML, CSS, and JavaScript.</li>
+        <li>Build and deploy five real websites.</li>
+        <li>Improve my programming and AI skills.</li>
+        <li>Get a good job in the IT industry.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:sachinyadavbly1947@gmail.com">
+          sachinyadavbly1947@gmail.com
+        </a>
+      </p>
+
+      <p>
+        <strong>Contact Number:</strong>
+        <a href="tel:7983402161">7983402161</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Sachin Singh</p>
+  </footer>
+
+</body>
+</html>
